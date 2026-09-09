@@ -16,7 +16,7 @@ The dashboard was built in Tableau using calculated fields, level-of-detail (LOD
 
 ## Dashboard Preview
 
-_Add a screenshot of your final Tableau dashboard here after uploading it to GitHub._
+<img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/62bc9c73-a505-4363-9378-83311185fc3b" />
 
 ```text
 images/dashboard_overview.png
